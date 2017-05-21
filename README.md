@@ -1,4 +1,4 @@
-#Google Apps Script Translator
+# Google Apps Script Translator
 
 A simple interface to Google translator.
 
@@ -7,5 +7,5 @@ Send a HTTP GET request to the service with the following parameters:
 * source - The language of the input text, or the empty string "" for language auto-detection
 * target - The language to translate to
 
-##License
+## License
 [MIT](LICENSE)
